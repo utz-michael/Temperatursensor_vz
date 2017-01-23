@@ -18,6 +18,7 @@ DallasTemperature sensors(&oneWire);
 
 // Wlan-Daten: Name des Netzwerks (SSID) und Passwort
 #define SSID "Connection1"
+#define PASSWORT "xxxxx"
 
 byte servervolk[]  = { 192, 168, 192, 105 };//Volkszähler server schreiben
 int PERIOD=1;
